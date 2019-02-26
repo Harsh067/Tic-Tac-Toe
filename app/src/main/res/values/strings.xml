@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Tic</string>
+    <string name="reset_board">Reset Board</string>
+</resources>
